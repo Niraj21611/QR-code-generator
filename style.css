@@ -88,4 +88,8 @@ img{
     transition: opacity 0.5s 0.05s ease;
 }
 
-
+@media screen and (max-width: 384px){
+    .wrapper{
+        width: 330px;
+    }
+}
